@@ -6,10 +6,6 @@
 
 package org.RealEstate;
 
-/**
- *
- * @author XZUD33P4X
- */
 public class HouseFile {
     
 }

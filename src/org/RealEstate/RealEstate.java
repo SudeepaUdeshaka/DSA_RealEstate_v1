@@ -6,10 +6,7 @@
 
 package org.RealEstate;
 
-/**
- *
- * @author XZUD33P4X
- */
+
 public class RealEstate extends java.awt.Dialog {
 
     /**

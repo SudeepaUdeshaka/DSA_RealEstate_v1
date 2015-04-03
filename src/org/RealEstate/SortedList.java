@@ -1,5 +1,4 @@
-
-package org.RealEstatev01;
+package org.RealEstate;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
